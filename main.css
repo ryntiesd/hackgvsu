@@ -1,0 +1,276 @@
+body {
+    background-color: white;
+}
+.navbar-toggle {
+    background-color: default;
+}
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+.brand {
+    background: url(images/logo.png) no-repeat left center;
+    height: 20px;
+    width: 100px;
+}
+.navbar .navbar-nav li: {
+    color: #004875;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar-default ul li.active {} .container-fluid {
+    padding: 0;
+}
+#home {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    height: 400px;
+    //margin-top: 20px;
+    //margin-bottom: 20px;
+    background-color: #FFFFFF;
+}
+#logo {
+    background-color: black;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+#binary {
+   height: 20px;
+   width: 100%;
+   overflow: hidden;
+}
+    
+#binaryOne {
+    height: 20px;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    bottom: 335px;
+    
+    
+}
+#homeMain {
+    height: auto;
+    width: auto;
+    padding: 5px;
+    text-align: center;
+}
+#homeMain p {
+    padding: 5px;
+    font-size: 20px;
+}
+#about {
+    background-color: #0065A4;
+    height: auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#aboutMain {
+    display: inline-block;
+    //Background-color: lightgrey;
+    height: auto;
+    width: 95%;
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#schedule {
+    background-color: #004875;
+    height: auto;
+    text-align: center;
+    margin-top:
+}
+#registration {
+    background-color: #88B3DA;
+    margin: auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#registrationBanner {
+    height: auto;
+    width: auto;
+    //background-color: grey;
+    color: white;
+}
+#registrationMain {
+    height: 350px;
+    ;
+    width: 90%;
+    background-color: lightgray;
+    display: inline-block;
+    margin-top: 30px;
+    padding: 30px;
+}
+#day p {
+    font-weight: bold;
+}
+#faq {
+    background-color: #0065A4;
+    display: inline-block;
+    height: auto;
+    padding: 30px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#sponsors {
+    background-color: #FFFFFF;
+    height: 1100px;
+    margin-top: 0px;
+    text-align: center;
+}
+#aboutBanner {
+    height: auto;
+    width: auto;
+    //background-color: grey;
+    color: white;
+    margin-bottom: 20px;
+}
+#aboutSection {
+    padding: 10px;
+    width: 70%;
+    display: inline-block;
+    //background-color: lightblue;
+    color: white;
+    font-size: 15px;
+}
+#aboutSection p {
+    padding: 10px;
+    text-align: left;
+}
+.navbar-default ul li:hover {
+    background-color: #A9A9A9;
+}
+#scheduleMain {
+    background-color: ;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    height: auto;
+    width: auto;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.daysSchedule {
+    display: inline-block;
+    //background-color: grey;
+    height: 350px;
+    width: 310px;
+    margin-left: 0;
+    margin-top: 10px;
+}
+#day {
+    width: 95%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 8px;
+    //background-color: grey;
+    line-height: 2;
+    font-size: 17px;
+    color: white;
+}
+#scheduleBanner {
+    height: auto;
+    width: auto;
+    //background-color: lightgrey;
+    margin-bottom: 20px;
+    color: white;
+}
+#time {
+    //background-color: grey;
+    width: 25%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 15px;
+    float: left;
+    line-height: 2.5;
+    color: white;
+}
+#event {
+    //background-color: lightblue;
+    width: 56%;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 110px;
+    line-height: 2.5;
+    margin-right: 50px;
+    color: white;
+}
+.firstRow {
+    height: auto;
+    width: auto;
+    background-color: grey;
+    text-align: center;
+}
+#one {
+    height: 90%;
+    width: 70%;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+#faqBanner {
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+#question {
+    width: auto;
+    height: auto;
+    ;
+    background-color: lightsteelblue;
+    text-align: left;
+    margin-bottom: -10px;
+    padding: 2px;
+    padding-bottom: 0;
+}
+#answer {
+    width: auto;
+    height: auto;
+    background-color: lightsteelblue;
+    margin-top: 10px;
+    text-align: left;
+    padding: 5px;
+    padding-top: 2px
+}
+.col-sm-4 {
+    color: white;
+}
+#sponsorBanner {
+    text-align: center;
+    margin-top: 20px;
+    width: auto;
+    color: #0065A4;
+    padding: 25px;
+    padding-top: 5px;
+}
+#sponsor-email {
+    padding: 2px;
+}
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: grey;
+    text-align: center;
+    padding: 25px;
+    color: white;
+}
+#footerBanner {
+    margin-top: 10px;
+    height: auto;
+    background-color: grey;
+}
